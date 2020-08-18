@@ -1,0 +1,1 @@
+This is Stefano's first git project!
